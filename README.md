@@ -1,1 +1,7 @@
-My NextJS App for surviving..
+# Next-Blog
+
+Next.js 를 사용해 만든 기술블로그
+
+## 컨텐츠 및 구성
+
+기술과 동시에 기술에 대한 이야기를 담는 블로그가 되었으면 좋겠습니다.
